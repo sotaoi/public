@@ -1,0 +1,14 @@
+hr {
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
+
+body {
+  overflow-y: scroll !important;
+  font-size: 14px;
+  font-weight: 300;
+}
+
+button:focus {
+  outline: none;
+}
